@@ -7,4 +7,4 @@ export const mockWeather = {"coord":{"lon":-0.13,"lat":51.51},
 "GB","sunrise":1485762037,"sunset":1485794875},
 "id":2643743,
 "name":"London",
-"cod":200}
+"cod":200};

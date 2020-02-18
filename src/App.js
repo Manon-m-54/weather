@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import Weather from './actions/components/Weather.js';
+import Weather from './components/Weather.js';
 import './App.css';
 
 function App() {
