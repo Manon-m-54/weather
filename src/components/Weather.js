@@ -3,7 +3,6 @@ import {
   getWeather,
   getWeatherByCity,
   getWeatherByCoords,
-  getForecastWeather
 } from "../actions/weatherAction";
 import Button from "@material-ui/core/Button";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
